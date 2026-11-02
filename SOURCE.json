@@ -1,0 +1,25 @@
+{
+  "publication_kind": "official-archive-import",
+  "imported_at": "2026-11-02",
+  "evidence": "https://web.stanford.edu/class/cs224w/",
+  "archives": [
+    {
+      "directory": "hw1",
+      "url": "https://web.stanford.edu/class/cs224w/homework/CS224W_Aut2627_HW1_template.zip",
+      "sha256": "e686ea75b4a1ecaf4d0ce31af1f5c385a91c468ebcb6f7f8a765d610e5eca93e",
+      "bytes": 1236053
+    },
+    {
+      "directory": "hw2",
+      "url": "https://web.stanford.edu/class/cs224w/homework/CS224W_Aut2627_HW2_template.zip",
+      "sha256": "3bf5c67dc17305ed7be7fefecb53c792f22598f14ea68d35bb74f504855734b9",
+      "bytes": 157038
+    },
+    {
+      "directory": "hw3",
+      "url": "https://web.stanford.edu/class/cs224w/homework/CS224W_Aut2627_HW3_template.zip",
+      "sha256": "07c36164a0afceaa715e119f800f7bbe85ea1ef070e075a3a51ca0f6ffdb6898",
+      "bytes": 268836
+    }
+  ]
+}
